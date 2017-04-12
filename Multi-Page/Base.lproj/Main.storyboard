@@ -53,9 +53,6 @@
                             <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HGP-60-Hs6">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                                <items>
-                                    <navigationItem title="Title" id="0fe-ol-cIV"/>
-                                </items>
                             </navigationBar>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -156,12 +153,9 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wKN-wB-hah">
+                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="aZm-vj-hWg">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                                <items>
-                                    <navigationItem title="Title" id="gWI-BW-jR5"/>
-                                </items>
                             </navigationBar>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -192,7 +186,7 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="zOn-Af-nFB"/>
-        <segue reference="H1h-5Z-raW"/>
-        <segue reference="PEK-0Y-IMD"/>
+        <segue reference="Xy1-Ud-Lw1"/>
+        <segue reference="PDl-im-Z2x"/>
     </inferredMetricsTieBreakers>
 </document>
